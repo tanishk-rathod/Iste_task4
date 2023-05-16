@@ -1,0 +1,47 @@
+body {
+/*    font-family: 'Open Sans', Arial, sans-serif;*/
+    font-family: 'Michroma', sans-serif;
+    font-size: 17px;
+    font-weight: 800;
+    overflow-x: hidden;
+    color: white;
+    background-color: #2C353C;
+    background-image: url('/static/img/1.jpg');
+/*    background-size: 100% 100%;*/
+    background-size: cover;
+
+
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    color: orange;
+}
+.section1{
+    margin-left: 100px;
+    font-size: 25px;
+    float: left;
+    
+}
+.section2{
+    margin-left: 500px;
+    font-size: 25px;
+    float: left;
+}
+.ques{
+    margin-bottom: 100px;
+}
+.ans{
+    
+    margin-top: -90px;
+    width: 600px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    color: orange;
+    font-weight: 100;
+}
+.ans p{
+    margin-left: 10px;
+    margin-right: 5px;
+}
